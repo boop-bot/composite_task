@@ -4,6 +4,8 @@ package edu.epam.composite.entity.impl;
 import edu.epam.composite.entity.TextComponent;
 import edu.epam.composite.entity.TextComponentType;
 
+import java.util.List;
+
 public class Symbol implements TextComponent {
     private Character character;
     private TextComponentType textComponentType = TextComponentType.SYMBOL;
@@ -30,6 +32,11 @@ public class Symbol implements TextComponent {
     @Override
     public int getSize() {
         return 1;
+    }
+
+    @Override
+    public List<TextComponent> getComponentList() {
+        return null;
     }
 
     @Override

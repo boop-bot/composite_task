@@ -13,6 +13,10 @@ public class TextComposite implements TextComponent {
     public TextComposite() {
     }
 
+    public TextComposite(List<TextComponent> textComponents) {
+        this.textComponents = textComponents;
+    }
+
     public TextComposite(TextComponentType textComponentType) {
         this.textComponentType = textComponentType;
     }
@@ -40,6 +44,11 @@ public class TextComposite implements TextComponent {
     @Override
     public TextComponentType getTextComponentType() {
         return textComponentType;
+    }
+
+    @Override
+    public List<TextComponent> getComponentList() {
+        return new ArrayList<>(textComponents);
     }
 
     public void setTextComponentType(TextComponentType textComponentType) {
