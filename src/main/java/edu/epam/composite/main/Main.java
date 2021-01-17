@@ -9,6 +9,7 @@ import edu.epam.composite.service.TextCompositeService;
 import edu.epam.composite.service.impl.TextCompositeServiceImpl;
 
 import java.io.IOException;
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws IOException {
@@ -18,6 +19,8 @@ public class Main {
         TextComponent textComponent = textParser.parse(text);
         TextCompositeService service = new TextCompositeServiceImpl();
         TextComponent sortedComponent = service.sortParagraphsBySentenceNumber(textComponent);
-        System.out.println(sortedComponent.toString());
+        List<TextComponent> sentences = service.findSentencesWithLongestWord(textComponent);
+        TextComponent longSentences = service.deleteSentencesByWordNumber(textComponent, 35);
+        System.out.println(longSentences.toString());
     }
 }

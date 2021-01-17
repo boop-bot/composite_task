@@ -25,23 +25,23 @@ public class Symbol implements TextComponent {
     }
 
     @Override
-    public boolean remove(TextComponent textComponent){
-        throw new UnsupportedOperationException();
-    }
-
-    @Override
-    public int getSize() {
-        return 1;
-    }
-
-    @Override
     public List<TextComponent> getComponentList() {
         return null;
     }
 
     @Override
+    public boolean remove(TextComponent textComponent){
+        throw new UnsupportedOperationException();
+    }
+
+    @Override
     public TextComponentType getTextComponentType() {
         return textComponentType;
+    }
+
+    @Override
+    public int getSize() {
+        return 1;
     }
 
     @Override

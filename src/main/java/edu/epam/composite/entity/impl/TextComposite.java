@@ -32,13 +32,13 @@ public class TextComposite implements TextComponent {
     }
 
     @Override
-    public boolean remove(TextComponent textComponent) {
-        return textComponents.remove(textComponent);
+    public List<TextComponent> getComponentList() {
+        return new ArrayList<>(textComponents);
     }
 
     @Override
-    public int getSize() {
-        return textComponents.size();
+    public boolean remove(TextComponent textComponent) {
+        return textComponents.remove(textComponent);
     }
 
     @Override
@@ -46,13 +46,13 @@ public class TextComposite implements TextComponent {
         return textComponentType;
     }
 
-    @Override
-    public List<TextComponent> getComponentList() {
-        return new ArrayList<>(textComponents);
-    }
-
     public void setTextComponentType(TextComponentType textComponentType) {
         this.textComponentType = textComponentType;
+    }
+
+    @Override
+    public int getSize() {
+        return textComponents.size();
     }
 
     @Override
