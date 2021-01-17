@@ -3,11 +3,14 @@ package edu.epam.composite.parser;
 import edu.epam.composite.entity.TextComponent;
 import edu.epam.composite.entity.TextComponentType;
 import edu.epam.composite.entity.impl.TextComposite;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class ParagraphParser extends AbstractParser {
+    private static final Logger logger = LogManager.getLogger(ParagraphParser.class);
     private final String SENTENCE_REGEX = "[^.!?\\s][^.!?]*(?:[.!?](?!['\"]?\\s|$)[^.!?]*)*[.!?]?['\"]?(?=\\s|$)";
 
     public ParagraphParser() {
@@ -24,6 +27,7 @@ public class ParagraphParser extends AbstractParser {
             TextComponent lexemes = nextParser.parse(textSentence);
             paragraphs.add(lexemes);
         }
+        logger.info("Paragraph parsed into sentences");
         return paragraphs;
     }
 }

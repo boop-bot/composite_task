@@ -1,0 +1,147 @@
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.SentenceParser - Sentence parsed into lexemes
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.ParagraphParser - Paragraph parsed into sentences
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.SentenceParser - Sentence parsed into lexemes
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.ParagraphParser - Paragraph parsed into sentences
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.SentenceParser - Sentence parsed into lexemes
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.ParagraphParser - Paragraph parsed into sentences
+2021-01-17 23:00:18 [main] INFO  edu.epam.composite.parser.TextParser - Text parsed into paragraphs
+2021-01-17 23:00:32 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
+2021-01-17 23:00:33 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:33 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:33 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.SentenceParser - Sentence parsed into lexemes
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:00:34 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols

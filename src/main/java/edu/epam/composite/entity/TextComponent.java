@@ -2,7 +2,7 @@ package edu.epam.composite.entity;
 
 import java.util.List;
 
-public interface TextComponent {
+public interface TextComponent extends Cloneable {
     void add(TextComponent textComponent);
     TextComponent getComponent(int index);
     List<TextComponent> getComponentList();

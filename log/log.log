@@ -1,30 +1,23 @@
-2021-01-17 12:58:07 [main] ERROR edu.epam.composite.reader.TextReader - File reading error src/main/resources/data/
-2021-01-17 12:59:08 [main] ERROR edu.epam.composite.reader.TextReader - File reading error src/main/resources/data/
-2021-01-17 12:59:38 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data.txt was read
-2021-01-17 13:00:31 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data.txt was read
-2021-01-17 13:05:19 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 13:08:23 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 13:08:27 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 13:23:00 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 13:23:49 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:01:10 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:14:40 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:23:00 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:28:49 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:32:09 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:32:54 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:33:09 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:34:19 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:38:55 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:40:15 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 14:52:01 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 15:00:37 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 15:01:44 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 15:16:43 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 15:17:22 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 15:17:30 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 15:17:42 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 15:18:26 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 15:18:39 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 15:19:25 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
-2021-01-17 15:20:09 [main] INFO  edu.epam.composite.reader.TextReader - file -> src/main/resources/data/data.txt was read
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.SentenceParser - Sentence parsed into lexemes
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.ParagraphParser - Paragraph parsed into sentences
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.WordParser - Word parsed into symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.LexemeParser - Lexeme parsed into words and symbols
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.SentenceParser - Sentence parsed into lexemes
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.ParagraphParser - Paragraph parsed into sentences
+2021-01-17 23:19:57 [main] INFO  edu.epam.composite.parser.TextParser - Text parsed into paragraphs
+2021-01-17 23:19:57 [main] INFO  epam.composite.service.impl.TextCompositeServiceImpl - Paragraphs sorted by number of sentences

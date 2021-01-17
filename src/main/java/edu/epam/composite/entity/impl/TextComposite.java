@@ -67,6 +67,27 @@ public class TextComposite implements TextComponent {
                 sb.append(" ");
             }
         }
+        if (TextComponentType.TEXT.equals(this.getTextComponentType())){
+            sb.deleteCharAt(0);
+        }
         return sb.toString();
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        TextComposite that = (TextComposite) o;
+
+        if (!textComponents.equals(that.textComponents)) return false;
+        return textComponentType == that.textComponentType;
+    }
+
+    @Override
+    public int hashCode() {
+        int result = textComponents.hashCode();
+        result = 31 * result + textComponentType.hashCode();
+        return result;
     }
 }

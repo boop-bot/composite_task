@@ -4,8 +4,11 @@ import edu.epam.composite.entity.TextComponentType;
 import edu.epam.composite.entity.impl.Symbol;
 import edu.epam.composite.entity.TextComponent;
 import edu.epam.composite.entity.impl.TextComposite;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class LexemeParser extends AbstractParser {
+    private static final Logger logger = LogManager.getLogger(LexemeParser.class);
     private final String WORD_REGEX = "[А-Яа-я\\w]+";
 
     public LexemeParser() {
@@ -35,6 +38,7 @@ public class LexemeParser extends AbstractParser {
                 textSb.deleteCharAt(0);
             }
         }
+        logger.info("Lexeme parsed into words and symbols");
         return lexemes;
     }
 }
